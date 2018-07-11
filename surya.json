@@ -1,0 +1,36 @@
+{
+  "details":{
+    "name":"surya",
+    "phoneno":"8499901671",
+    "email":"suryamokkapati9@gmail.com",
+    "address":"vijayawada"
+  },
+  "career":{
+    "info":"challenges are meant for us"
+  },
+  "education":[
+    {
+      "degree":"B.tech",
+      "institute":"pvpsit",
+      "data":["2016-20","88%"]
+    },
+    {
+      "degree":"s.s.c",
+    "institute":"narayana",
+  "data":["2014","92%"]
+}
+],
+"skills":[{
+  "title":"programming Languages",
+  "info":["c","java","R"]
+},
+{
+  "title":"Databases",
+  "info":["oracle","mysql"]
+}
+],
+  "Acheivements":
+    {
+    "acheiveData":"certified by nptel in Databases"
+  }
+}
